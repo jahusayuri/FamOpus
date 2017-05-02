@@ -1,0 +1,48 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\CAM\\Projects\\FamOpus\\FamOpus\\FamOpus.csproj",
+    "projectName": "FamOpus",
+    "projectPath": "C:\\Users\\CAM\\Projects\\FamOpus\\FamOpus\\FamOpus.csproj",
+    "outputPath": "C:\\Users\\CAM\\Projects\\FamOpus\\FamOpus\\obj\\",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netstandard1.4"
+    ],
+    "frameworks": {
+      "netstandard1.4": {
+        "projectReferences": {}
+      }
+    }
+  },
+  "frameworks": {
+    "netstandard1.4": {
+      "dependencies": {
+        "NETStandard.Library": {
+          "target": "Package",
+          "version": "1.6.1"
+        },
+        "Microsoft.EntityFrameworkCore": {
+          "target": "Package",
+          "version": "1.1.1"
+        },
+        "Microsoft.EntityFrameworkCore.Sqlite": {
+          "target": "Package",
+          "version": "1.1.1"
+        },
+        "Microsoft.EntityFrameworkCore.Sqlite.Design": {
+          "target": "Package",
+          "version": "1.1.1"
+        },
+        "Microsoft.EntityFrameworkCore.Tools": {
+          "target": "Package",
+          "version": "1.1.0"
+        },
+        "System.Diagnostics.Contracts": {
+          "target": "Package",
+          "version": "4.3.0"
+        }
+      }
+    }
+  }
+}

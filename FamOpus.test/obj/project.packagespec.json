@@ -1,0 +1,48 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\CAM\\Projects\\FamOpus\\FamOpus.test\\FamOpus.test.csproj",
+    "projectName": "FamOpus.test",
+    "projectPath": "C:\\Users\\CAM\\Projects\\FamOpus\\FamOpus.test\\FamOpus.test.csproj",
+    "outputPath": "C:\\Users\\CAM\\Projects\\FamOpus\\FamOpus.test\\obj\\",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netstandard1.4"
+    ],
+    "frameworks": {
+      "netstandard1.4": {
+        "projectReferences": {
+          "C:\\Users\\CAM\\Projects\\FamOpus\\FamOpus\\FamOpus.csproj": {
+            "projectPath": "C:\\Users\\CAM\\Projects\\FamOpus\\FamOpus\\FamOpus.csproj"
+          }
+        }
+      }
+    }
+  },
+  "frameworks": {
+    "netstandard1.4": {
+      "dependencies": {
+        "NETStandard.Library": {
+          "target": "Package",
+          "version": "1.6.1"
+        },
+        "Microsoft.EntityFrameworkCore.Sqlite": {
+          "target": "Package",
+          "version": "1.1.1"
+        },
+        "Microsoft.EntityFrameworkCore.Sqlite.Design": {
+          "target": "Package",
+          "version": "1.1.1"
+        },
+        "xunit": {
+          "target": "Package",
+          "version": "2.2.0"
+        },
+        "xunit.runner.visualstudio": {
+          "target": "Package",
+          "version": "2.2.0"
+        }
+      }
+    }
+  }
+}

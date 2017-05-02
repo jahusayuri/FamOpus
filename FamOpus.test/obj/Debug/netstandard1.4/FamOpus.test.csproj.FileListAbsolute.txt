@@ -1,0 +1,9 @@
+C:\Users\CAM\Projects\FamOpus\FamOpus.test\bin\Debug\netstandard1.4\FamOpus.Test.deps.json
+C:\Users\CAM\Projects\FamOpus\FamOpus.test\obj\Debug\netstandard1.4\FamOpus.test.csprojResolveAssemblyReference.cache
+C:\Users\CAM\Projects\FamOpus\FamOpus.test\obj\Debug\netstandard1.4\FamOpus.test.AssemblyInfo.cs
+C:\Users\CAM\Projects\FamOpus\FamOpus.test\bin\Debug\netstandard1.4\FamOpus.Test.dll
+C:\Users\CAM\Projects\FamOpus\FamOpus.test\bin\Debug\netstandard1.4\FamOpus.Test.pdb
+C:\Users\CAM\Projects\FamOpus\FamOpus.test\bin\Debug\netstandard1.4\FamOpus.dll
+C:\Users\CAM\Projects\FamOpus\FamOpus.test\bin\Debug\netstandard1.4\FamOpus.pdb
+C:\Users\CAM\Projects\FamOpus\FamOpus.test\obj\Debug\netstandard1.4\FamOpus.Test.dll
+C:\Users\CAM\Projects\FamOpus\FamOpus.test\obj\Debug\netstandard1.4\FamOpus.Test.pdb
